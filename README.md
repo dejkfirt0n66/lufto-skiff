@@ -18,3 +18,5 @@ docker compose up
 
 Files may appear in `/tmp` or `docker_volume_cache`.
 Everything runs in unpredictable absurd-tech order.
+
+# PR Merge: 2025-10-21 - refactor/merge-3361
